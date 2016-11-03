@@ -4,7 +4,7 @@ Making a function that draws binary tree on to the console.
 
 The header file assumes your node in the tree is defined as follows:
 
-
+<pre>
 struct node
 {
 	int data;
@@ -12,7 +12,7 @@ struct node
 	struct node *right;
 
 }*root=NULL;
-
+</pre>
 
 NOTE:
 The displayTree.h header file already contains this structure definition 
