@@ -22,3 +22,11 @@ If you want the structure definition in the main program itself,
 comment out the defintion in the displayTree.h
 
 _______________________________________________________
+
+
+
+This is how the tree looks like
+
+
+<img src = "https://github.com/dingusagar/Draw-Binary-Tree-/blob/master/tree.PNG?raw=true"/>
+
