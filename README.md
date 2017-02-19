@@ -30,3 +30,6 @@ This is how the tree looks like
 
 <img src = "https://github.com/dingusagar/Draw-Binary-Tree-/blob/master/tree.PNG?raw=true"/>
 
+Since C is limited when it comes to generics, you have to make the changes in the node structure of the tree in the header file according to your requirements .   
+
+A new project with the same implemented in C++ is proposed.
