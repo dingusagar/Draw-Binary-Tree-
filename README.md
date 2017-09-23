@@ -32,6 +32,4 @@ This is how the tree looks like
 
 It displays average trees nicely , but gets little cozy with skewed trees.
 
-Since C is limited when it comes to generics, you have to make the changes in the node structure of the tree in the header file according to your requirements .   
 
-A new project with the same implemented in C++ is proposed.
