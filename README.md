@@ -30,6 +30,5 @@ This is how the tree looks like
 
 <img src = "https://github.com/dingusagar/Draw-Binary-Tree-/blob/master/tree.PNG?raw=true"/>
 
-It displays average trees nicely , but gets little cozy with skewed trees.
 
 
